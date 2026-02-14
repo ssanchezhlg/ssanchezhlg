@@ -126,17 +126,6 @@ const salvador = {
 
 
 
-
-
-
-<!-- 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanchezhlg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
--->
-
-
-
 <!-- 
 
 ## 📊 Estadísticas
