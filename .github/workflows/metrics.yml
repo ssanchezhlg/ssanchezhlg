@@ -45,18 +45,18 @@ jobs:
 #          plugin_lines_sections: repositories, history
           
           # Hábitos (CORREGIDO)
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 30
-          plugin_habits_from: 500
-          plugin_habits_trim: yes
+#          plugin_habits: yes
+#          plugin_habits_facts: yes
+#          plugin_habits_charts: yes
+#          plugin_habits_days: 30
+#          plugin_habits_from: 500
+#          plugin_habits_trim: yes
           
           # Logros (CORREGIDO - ignora Projects)
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-          plugin_achievements_ignored: automator, infographile
+#          plugin_achievements: yes
+#          plugin_achievements_display: compact
+#          plugin_achievements_threshold: C
+#          plugin_achievements_ignored: automator, infographile
           
           # Salida
           output_action: commit
