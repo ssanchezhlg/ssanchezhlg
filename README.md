@@ -115,9 +115,10 @@ const salvador = {
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ssanchezhlg&theme=tokyonight)
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ssanchezhlg&theme=tokyonight)
 
+![Trophies](https://github-trophies.vercel.app/?username=ssanchezhlg&theme=tokyonight&no-frame=true&row=1&column=6)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=tokyonight&hide_border=true)
 
-![Trophies](https://github-trophies.vercel.app/?username=ssanchezhlg&theme=tokyonight&no-frame=true&row=1&column=6)
 
 
 </div>
