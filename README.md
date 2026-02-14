@@ -108,9 +108,6 @@ const salvador = {
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssanchezhlg&theme=tokyonight)
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssanchezhlg&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssanchezhlg&theme=tokyonight)
-
-
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ssanchezhlg&theme=tokyonight)
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ssanchezhlg&theme=tokyonight)
