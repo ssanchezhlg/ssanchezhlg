@@ -24,6 +24,7 @@ jobs:
           base: ""
           config_timezone: America/Havana
           
+          # Debug (puedes quitarlo después)
           debug: yes
           plugins_errors_fatal: no
           
@@ -39,21 +40,23 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # Hábitos de programación (NUEVO)
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 14
-          plugin_habits_from: 200
-          
-          # Líneas de código (NUEVO)
+          # Líneas de código
           plugin_lines: yes
           plugin_lines_sections: repositories, history
           
-          # Logros (NUEVO)
+          # Hábitos (CORREGIDO)
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 30
+          plugin_habits_from: 500
+          plugin_habits_trim: yes
+          
+          # Logros (CORREGIDO - ignora Projects)
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: C
+          plugin_achievements_ignored: automator, infographile
           
           # Salida
           output_action: commit
