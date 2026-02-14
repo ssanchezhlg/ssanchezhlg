@@ -122,24 +122,9 @@ const salvador = {
 </div>
 
 
-
-
-
-
-
-
-
-
 <div align="center">
 
 ![Metrics](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-metrics.svg)
-
-![Languages](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-metrics.plugin.languages.svg)
-
-![Calendar](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-metrics.plugin.isocalendar.svg)
-
-
-
 
 </div>
 
