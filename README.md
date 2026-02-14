@@ -111,7 +111,6 @@ const salvador = {
 
 -->
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ssanchezhlg&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssanchezhlg&theme=tokyonight)
 
@@ -145,6 +144,49 @@ const salvador = {
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=tokyonight&hide_border=true)
 
 </div>
+
+
+
+
+
+
+## 📊 Estadísticas de GitHub - 2
+
+<div align="center">
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssanchezhlg&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ssanchezhlg&theme=tokyonight)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ssanchezhlg&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=tokyonight&hide_border=true)
+
+</div>
+
+
+## 📊 Estadísticas de GitHub - 3
+
+<div align="center">
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssanchezhlg&theme=tokyonight)
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssanchezhlg&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssanchezhlg&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=tokyonight&hide_border=true)
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- 
 
