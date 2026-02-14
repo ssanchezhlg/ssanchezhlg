@@ -124,7 +124,7 @@ const salvador = {
 </div>
 
 
-### 💻 Actividad de Código Esta Semana   -->
+### 💻 Actividad de Código Esta Semana
 
 <!--START_SECTION:waka-->
 
