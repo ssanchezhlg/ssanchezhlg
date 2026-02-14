@@ -42,7 +42,7 @@ jobs:
           
           # Líneas de código
           plugin_lines: yes
-          plugin_lines_sections: repositories, history
+#          plugin_lines_sections: repositories, history
           
           # Hábitos (CORREGIDO)
           plugin_habits: yes
