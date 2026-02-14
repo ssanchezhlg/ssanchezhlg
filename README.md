@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sergio%20Sánchez&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Salvador%20Sánchez&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
@@ -34,6 +34,24 @@ const ssanchezhlg = {
     funFact: "I debug with console.log and I'm not ashamed 😄"
 };
 ```
+
+---
+
+## 🎯 Current Status
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/ssanchezhlg?style=for-the-badge&logo=github&color=6C63FF)
+![GitHub User's stars](https://img.shields.io/github/stars/ssanchezhlg?style=for-the-badge&logo=github&color=FFD700)
+![Profile Views](https://komarev.com/ghpvc/?username=ssanchezhlg&color=6C63FF&style=for-the-badge)
+
+</div>
+
+<div align="center">
+  
+**🔥 Current Streak:** Check stats below | **💼 Open to:** Collaborations & Freelance | **📍 Based in:** Mexico
+
+</div>
 
 ---
 
@@ -80,13 +98,38 @@ const ssanchezhlg = {
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=ssanchezhlg&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanchezhlg&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8)
+<a href="https://github.com/ssanchezhlg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssanchezhlg&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanchezhlg&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+</a>
 
 </div>
+
+<div align="center">
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)
+
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=ssanchezhlg&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
+
+</div>
+
+### 📈 Contribution Metrics
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=ssanchezhlg&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true)
+
+</div>
+
+### 💻 This Week's Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -95,6 +138,19 @@ const ssanchezhlg = {
 <div align="center">
   
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ssanchezhlg&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-contribution-grid-snake-dark.svg)
+
+<!--
+Si la animación no aparece, ejecuta este GitHub Action en tu repositorio:
+https://github.com/Platane/snk
+-->
 
 </div>
 
@@ -144,17 +200,39 @@ const ssanchezhlg = {
 
 ---
 
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<!--
+Para activar esta sección, configura el GitHub Action:
+https://github.com/jamesgeorge007/github-activity-readme
+-->
+
+---
+
 <div align="center">
   
-### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 💭 "First, solve the problem. Then, write the code." – John Johnson
 
-### 👀 Profile Views
+### 📫 Let's Connect
 
-![](https://komarev.com/ghpvc/?username=ssanchezhlg&color=6C63FF&style=for-the-badge)
+**💼 Open for:** Freelance Projects | Full-time Opportunities | Collaborations
+
+**⚡ Fun fact:** I believe the best code is the code you don't have to write!
+
+---
+
+![](https://komarev.com/ghpvc/?username=ssanchezhlg&color=6C63FF&style=flat-square&label=Profile+Views)
+![](https://img.shields.io/github/followers/ssanchezhlg?label=Followers&style=flat-square&color=6C63FF)
+![](https://img.shields.io/github/stars/ssanchezhlg?label=Stars&style=flat-square&color=FFD700)
 
 ### ⭐ Show some love!
 
-If you like my projects, feel free to ⭐ them and follow me for more!
+If you like my work, feel free to ⭐ star my repositories and follow me!
+
+**Made with 💜 by Salvador Sánchez**
 
 </div>
 
