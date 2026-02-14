@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Salvador%20Sánchez&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sergio%20Sánchez&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
@@ -39,6 +39,28 @@ const ssanchezhlg = {
 
 ## 🛠️ Tech Stack
 
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 ### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -57,30 +79,24 @@ const ssanchezhlg = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ssanchezhlg&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak"/>
-</div>
+  
+![](https://github-readme-stats.vercel.app/api?username=ssanchezhlg&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ssanchezhlg&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&langs_count=8"/>
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=ssanchezhlg&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanchezhlg&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8)
+
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssanchezhlg&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" width="95%"/>
+  
+![](https://github-readme-activity-graph.vercel.app/graph?username=ssanchezhlg&theme=react-dark&hide_border=true&area=true)
+
 </div>
-
-<!-- Alternativa si la de arriba no funciona -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-contribution-grid-snake.svg">
-</picture>
-
 
 
 ---
@@ -89,8 +105,10 @@ const ssanchezhlg = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ssanchezhlg&repo=repo-name-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF)](https://github.com/ssanchezhlg/repo-name-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ssanchezhlg&repo=repo-name-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF)](https://github.com/ssanchezhlg/repo-name-2)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ssanchezhlg&repo=NOMBRE-REPO-1&theme=radical&hide_border=true)](https://github.com/ssanchezhlg/NOMBRE-REPO-1)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ssanchezhlg&repo=NOMBRE-REPO-2&theme=radical&hide_border=true)](https://github.com/ssanchezhlg/NOMBRE-REPO-2)
+
+<!-- Reemplaza NOMBRE-REPO-1 y NOMBRE-REPO-2 con los nombres reales de tus repositorios -->
 
 </div>
 
