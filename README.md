@@ -112,38 +112,20 @@ const salvador = {
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  
-<a href="https://github.com/ssanchezhlg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssanchezhlg&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff#gh-dark-mode-only" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssanchezhlg&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true#gh-light-mode-only" alt="GitHub Stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanchezhlg&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=6C63FF&text_color=ffffff#gh-dark-mode-only" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanchezhlg&layout=compact&theme=default&hide_border=true&langs_count=8#gh-light-mode-only" alt="Top Languages" />
-</a>
 
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssanchezhlg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<div align="center">
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF#gh-dark-mode-only)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=default&hide_border=true#gh-light-mode-only)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanchezhlg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=tokyonight&hide_border=true)
 
 </div>
 
 ### 🏆 Trofeos de GitHub
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=ssanchezhlg&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4#gh-dark-mode-only)
-![](https://github-profile-trophy.vercel.app/?username=ssanchezhlg&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4#gh-light-mode-only)
-
-</div>
-
-### 📈 Métricas de Contribución
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=ssanchezhlg&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true#gh-dark-mode-only)
-![](https://github-contributor-stats.vercel.app/api?username=ssanchezhlg&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true#gh-light-mode-only)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ssanchezhlg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
 
 </div>
 
@@ -157,21 +139,18 @@ const salvador = {
 ## 📈 Actividad de Contribuciones
 
 <div align="center">
-  
-![](https://github-readme-activity-graph.vercel.app/graph?username=ssanchezhlg&theme=react-dark&hide_border=true&area=true&custom_title=Gráfico%20de%20Actividad#gh-dark-mode-only)
-![](https://github-readme-activity-graph.vercel.app/graph?username=ssanchezhlg&theme=github-compact&hide_border=true&area=true&custom_title=Gráfico%20de%20Actividad#gh-light-mode-only)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ssanchezhlg&theme=tokyo-night&hide_border=true&area=true&custom_title=Gráfico%20de%20Actividad)
 
 </div>
 
 ### 🐍 Serpiente de Contribuciones
 
 <div align="center">
-  
-![snake gif](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake gif](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![snake gif](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
 
 ---
 
@@ -179,11 +158,10 @@ const salvador = {
 
 <div align="center">
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ssanchezhlg&repo=NOMBRE-PROYECTO-1&theme=radical&hide_border=true)](https://github.com/ssanchezhlg/NOMBRE-PROYECTO-1)
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ssanchezhlg&repo=NOMBRE-PROYECTO-2&theme=radical&hide_border=true)](https://github.com/ssanchezhlg/NOMBRE-PROYECTO-2)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ssanchezhlg&repo=NOMBRE-PROYECTO-1&theme=tokyonight&hide_border=true)](https://github.com/ssanchezhlg/NOMBRE-PROYECTO-1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ssanchezhlg&repo=NOMBRE-PROYECTO-2&theme=tokyonight&hide_border=true)](https://github.com/ssanchezhlg/NOMBRE-PROYECTO-2)
 
 <!-- Reemplaza NOMBRE-PROYECTO-1 y NOMBRE-PROYECTO-2 con tus repositorios reales -->
-<!-- Ejemplos: automation-scripts, network-tools, flutter-app, etc. -->
 
 </div>
 
@@ -193,8 +171,7 @@ const salvador = {
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical#gh-dark-mode-only)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default#gh-light-mode-only)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -224,11 +201,6 @@ const salvador = {
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-<!--
-Para activar esta sección, configura el GitHub Action:
-https://github.com/jamesgeorge007/github-activity-readme
--->
 
 ---
 
