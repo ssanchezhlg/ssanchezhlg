@@ -152,9 +152,27 @@ const salvador = {
 
 ![snake gif](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-contribution-grid-snake-dark.svg)
 
+</div>
+
+---
+
+### Pruebas
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ssanchezhlg&theme=dracula&no-frame=true&margin-w=4)
 
 
 </div>
+
+<div align="center">
+
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ssanchezhlg&theme=dracula)
+</div>
+
+
+
+
 
 ---
 
