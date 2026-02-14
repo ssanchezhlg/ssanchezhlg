@@ -24,6 +24,9 @@ jobs:
           base: ""
           config_timezone: America/Havana
           
+          debug: yes
+          plugins_errors_fatal: no
+          
           # Lenguajes
           plugin_languages: yes
           plugin_languages_threshold: 0%
