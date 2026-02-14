@@ -143,11 +143,16 @@ const salvador = {
 
 </div>
 
+
+
+
 ### 🐍 Serpiente de Contribuciones
 
 <div align="center">
 
 ![snake gif](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-contribution-grid-snake-dark.svg)
+
+
 
 </div>
 
