@@ -1,5 +1,4 @@
-# .github/workflows/metrics.yml
-name: Metrics
+name: GitHub Metrics
 on:
   schedule:
     - cron: '0 0 * * *' 

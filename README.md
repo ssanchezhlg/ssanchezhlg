@@ -121,12 +121,31 @@ const salvador = {
 
 
 
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanchezhlg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=tokyonight&hide_border=true)
 
 </div>
+
+
+
+## 📊 Estadísticas
+
+![Metrics](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/metrics.svg)
+![Languages](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/metrics.plugin.languages.svg)
+![Trophies](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/metrics.plugin.trophies.svg)
+![Calendar](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/metrics.plugin.isocalendar.svg)
+
+## 🐍 Contribuciones
+
+![Snake](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-contribution-grid-snake-dark.svg)
+
+
+
+
+
+
+
 
 ### 🏆 Trofeos de GitHub
 
