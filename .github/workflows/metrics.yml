@@ -20,8 +20,8 @@ jobs:
           user: ssanchezhlg
           
           # Contenido base
-          base: header, metadata, activities
-          config_timezone: America/Havana
+          #base: header, metadata, activities
+          #config_timezone: America/Havana
           
           # Plugin: Lenguajes (incluye repos privados)
           plugin_languages: yes
