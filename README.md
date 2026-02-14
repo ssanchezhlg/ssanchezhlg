@@ -124,40 +124,6 @@ const salvador = {
 </div>
 
 
-
-
-<!-- 
-
-## 📊 Estadísticas
-
-![Metrics](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/metrics.svg)
-![Languages](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/metrics.plugin.languages.svg)
-![Trophies](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/metrics.plugin.trophies.svg)
-![Calendar](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/metrics.plugin.isocalendar.svg)
-
-
-## 🐍 Contribuciones
-
-![Snake](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-contribution-grid-snake-dark.svg)
-
-
-
-
-
-
-
-
-### 🏆 Trofeos de GitHub
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ssanchezhlg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
-
-</div>
-
-
-<!-- 
-
 ### 💻 Actividad de Código Esta Semana   -->
 
 <!--START_SECTION:waka-->
@@ -172,11 +138,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-<!-- 
-
 ---
--->
-
 
 ## 📈 Actividad de Contribuciones
 
@@ -185,8 +147,6 @@ No activity tracked
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ssanchezhlg&theme=tokyo-night&hide_border=true&area=true&custom_title=Gráfico%20de%20Actividad)
 
 </div>
-
-
 
 
 ### 🐍 Serpiente de Contribuciones
@@ -239,12 +199,6 @@ No activity tracked
 
 </div>
 
----
-<!--
-## 📝 Últimas Publicaciones del Blog
--->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
