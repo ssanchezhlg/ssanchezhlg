@@ -105,55 +105,6 @@ const salvador = {
 
 <div align="center">
 
-<!-- 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssanchezhlg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
--->
-
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssanchezhlg&theme=tokyonight)
-
-
-<!-- 
-
-![Metrics](https://github.com/ssanchezhlg/ssanchezhlg/blob/output/metrics.svg)
-
--->
-
-![Trophies](https://github-trophies.vercel.app/?username=ssanchezhlg&theme=dracula&no-frame=true&row=2&column=4)
-
-<!-- Tema más limpio -->
-![Trophies](https://github-trophies.vercel.app/?username=ssanchezhlg&theme=tokyonight&no-frame=true&row=1&column=6)
-
-<!-- Tema más limpio -->
-![Trophies](https://github-trophies.vercel.app/?username=ssanchezhlg&theme=dracula&no-frame=true&row=1&column=6)
-
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ssanchezhlg&theme=tokyonight&no-frame=true&row=1&column=7)
-
-
-
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssanchezhlg&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=tokyonight&hide_border=true)
-
-</div>
-
-
-
-
-
-
-## 📊 Estadísticas de GitHub - 2
-
-<div align="center">
-
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssanchezhlg&theme=tokyonight)
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssanchezhlg&theme=tokyonight)
@@ -166,26 +117,10 @@ const salvador = {
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=tokyonight&hide_border=true)
 
-</div>
+![Trophies](https://github-trophies.vercel.app/?username=ssanchezhlg&theme=tokyonight&no-frame=true&row=1&column=6)
 
-
-## 📊 Estadísticas de GitHub - 3
-
-<div align="center">
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssanchezhlg&theme=tokyonight)
-
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssanchezhlg&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssanchezhlg&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=tokyonight&hide_border=true)
 
 </div>
-
-
-
-
-
 
 
 
@@ -198,11 +133,6 @@ const salvador = {
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanchezhlg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 -->
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=tokyonight&hide_border=true)
-
-</div>
 
 
 
