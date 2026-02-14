@@ -167,7 +167,7 @@ const salvador = {
 
 <div align="center">
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ssanchezhlg&theme=dracula)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ssanchezhlg&theme=dracula&hide_border=true)
 </div>
 
 
