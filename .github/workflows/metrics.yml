@@ -37,11 +37,11 @@ jobs:
           plugin_languages_colors: github
           
           # Calendario
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+#          plugin_isocalendar: yes
+#          plugin_isocalendar_duration: half-year
           
           # Líneas de código
-          plugin_lines: yes
+#          plugin_lines: yes
 #          plugin_lines_sections: repositories, history
           
           # Hábitos (CORREGIDO)
