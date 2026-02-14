@@ -160,7 +160,7 @@ const salvador = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ssanchezhlg&theme=dracula&no-frame=true&margin-w=4)
+![Trophies](https://github-trophies.vercel.app/?username=ssanchezhlg&theme=dracula&no-frame=true&row=2&column=4)
 
 
 </div>
