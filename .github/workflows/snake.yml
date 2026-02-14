@@ -23,7 +23,12 @@ jobs:
           github_user_name: ssanchezhlg
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=dracula
+            dist/github-contribution-grid-snake-dark.svg?palette=dracula&snake_case=metro
+            # dist/github-contribution-grid-snake-dark.svg?palette=dracula
+            # dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            # dist/github-contribution-grid-snake-dark.svg?palette=nord&snake_case=metro
+            # dist/github-contribution-grid-snake-dark.svg?palette=tokyonight
+            # dist/github-contribution-grid-snake-dark.svg?palette=catppuccin
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
