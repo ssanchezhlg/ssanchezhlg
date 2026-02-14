@@ -113,11 +113,27 @@ const salvador = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssanchezhlg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ssanchezhlg&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ssanchezhlg&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ssanchezhlg&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+</picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanchezhlg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanchezhlg&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanchezhlg&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanchezhlg&layout=compact&theme=default&hide_border=true&langs_count=8" />
+</picture>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=default&hide_border=true" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=default&hide_border=true" />
+</picture>
 
 </div>
 
@@ -125,7 +141,23 @@ const salvador = {
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ssanchezhlg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ssanchezhlg&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ssanchezhlg&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ssanchezhlg&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+</picture>
+
+</div>
+
+### 📈 Métricas de Contribución
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=ssanchezhlg&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=ssanchezhlg&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true" />
+  <img alt="Contribution Metrics" src="https://github-contributor-stats.vercel.app/api?username=ssanchezhlg&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true" />
+</picture>
 
 </div>
 
@@ -140,7 +172,11 @@ const salvador = {
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ssanchezhlg&theme=tokyo-night&hide_border=true&area=true&custom_title=Gráfico%20de%20Actividad)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ssanchezhlg&theme=react-dark&hide_border=true&area=true&custom_title=Gráfico%20de%20Actividad" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ssanchezhlg&theme=github-compact&hide_border=true&area=true&custom_title=Gráfico%20de%20Actividad" />
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ssanchezhlg&theme=github-compact&hide_border=true&area=true&custom_title=Gráfico%20de%20Actividad" />
+</picture>
 
 </div>
 
@@ -148,7 +184,11 @@ const salvador = {
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -162,6 +202,7 @@ const salvador = {
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ssanchezhlg&repo=NOMBRE-PROYECTO-2&theme=tokyonight&hide_border=true)](https://github.com/ssanchezhlg/NOMBRE-PROYECTO-2)
 
 <!-- Reemplaza NOMBRE-PROYECTO-1 y NOMBRE-PROYECTO-2 con tus repositorios reales -->
+<!-- Nota: Usando tema tokyonight que se ve bien en ambos modos -->
 
 </div>
 
@@ -171,7 +212,11 @@ const salvador = {
 
 <div align="center">
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
+  <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
+</picture>
 
 </div>
 
