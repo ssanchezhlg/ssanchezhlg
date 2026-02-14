@@ -121,12 +121,19 @@ const salvador = {
 
 </div>
 
-### 💻 Actividad de Código Esta Semana
+
+<!-- 
+
+### 💻 Actividad de Código Esta Semana   -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<!-- 
+
 ---
+-->
+
 
 ## 📈 Actividad de Contribuciones
 
@@ -157,10 +164,12 @@ const salvador = {
 
 <!-- Reemplaza NOMBRE-PROYECTO-1 y NOMBRE-PROYECTO-2 con tus repositorios reales -->
 
-</div>
--->
+<!--  </div>   
 
 ---
+
+-->
+
 
 ## 💡 Frase Motivacional del Día
 
