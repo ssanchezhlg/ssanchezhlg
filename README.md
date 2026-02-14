@@ -111,6 +111,8 @@ const salvador = {
 
 -->
 
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ssanchezhlg&show_icons=true&theme=tokyonight&hide_border=true)
+
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssanchezhlg&theme=tokyonight)
 
 
@@ -122,9 +124,30 @@ const salvador = {
 
 ![Trophies](https://github-trophies.vercel.app/?username=ssanchezhlg&theme=dracula&no-frame=true&row=2&column=4)
 
+<!-- Tema más limpio -->
+![Trophies](https://github-trophies.vercel.app/?username=ssanchezhlg&theme=tokyonight&no-frame=true&row=1&column=6)
 
+<!-- Tema más limpio -->
+![Trophies](https://github-trophies.vercel.app/?username=ssanchezhlg&theme=dracula&no-frame=true&row=1&column=6)
+
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ssanchezhlg&theme=tokyonight&no-frame=true&row=1&column=7)
+
+
+
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssanchezhlg&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=tokyonight&hide_border=true)
+
+</div>
 
 <!-- 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanchezhlg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 -->
