@@ -119,8 +119,29 @@ const salvador = {
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=tokyonight&hide_border=true)
 
+</div>
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+![Metrics](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/metrics.svg)
+
+![Languages](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/metrics.plugin.languages.svg)
+
+![Calendar](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/metrics.plugin.isocalendar.svg)
 
 </div>
+
+
+
 
 
 ### 💻 Actividad de Código Esta Semana
