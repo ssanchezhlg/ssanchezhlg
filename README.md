@@ -105,23 +105,30 @@ const salvador = {
 
 <div align="center">
 
+<!-- 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssanchezhlg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-
+-->
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssanchezhlg&theme=tokyonight)
 
 
+<!-- 
+
 ![Metrics](https://github.com/ssanchezhlg/ssanchezhlg/blob/output/metrics.svg)
 
-
+-->
 
 ![Trophies](https://github-trophies.vercel.app/?username=ssanchezhlg&theme=dracula&no-frame=true&row=2&column=4)
 
 
 
-
+<!-- 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanchezhlg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+-->
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=tokyonight&hide_border=true)
 
@@ -129,12 +136,15 @@ const salvador = {
 
 
 
+<!-- 
+
 ## 📊 Estadísticas
 
 ![Metrics](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/metrics.svg)
 ![Languages](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/metrics.plugin.languages.svg)
 ![Trophies](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/metrics.plugin.trophies.svg)
 ![Calendar](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/metrics.plugin.isocalendar.svg)
+
 
 ## 🐍 Contribuciones
 
