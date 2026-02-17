@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Salvador%20Sánchez&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Salvador%20Sánchez&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@ const salvador = {
         scripting: ["Bash", "Python"],
         infraestructura: ["Docker", "Kubernetes", "Terraform"],
         ci_cd: ["GitHub Actions", "Jenkins", "GitLab CI"],
-        monitoreo: ["Prometheus", "Grafana" ],
+        monitoreo: ["Prometheus", "Grafana"],
         redes: ["Cisco", "Mikrotik", "pfSense", "VPN"]
     },
     enfoque_actual: "Automatización de infraestructura y desarrollo móvil",
@@ -53,17 +53,22 @@ const salvador = {
 
 ## 🛠️ Stack Tecnológico
 
+<div align="center">
+
 ### 💻 Lenguajes
+
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![YAML](https://img.shields.io/badge/-YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 ### 📱 Desarrollo Móvil
+
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### 🔧 DevOps & CI/CD
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -73,6 +78,7 @@ const salvador = {
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### 🌐 Redes & Infraestructura
+
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Mikrotik](https://img.shields.io/badge/-Mikrotik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![pfSense](https://img.shields.io/badge/-pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
@@ -80,6 +86,7 @@ const salvador = {
 ![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 
 ### ☁️ Cloud & Servidores
+
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -87,48 +94,52 @@ const salvador = {
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 ### 📊 Monitoreo & Logging
+
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white)
 
 ### 🗄️ Bases de Datos
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔨 Herramientas
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssanchezhlg&theme=tokyonight" width="100%" alt="Profile Details" />
+</div>
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssanchezhlg&theme=tokyonight)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ssanchezhlg&theme=tokyonight" width="49%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssanchezhlg&theme=tokyonight" width="49%" alt="Top Languages" />
+</div>
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssanchezhlg&theme=tokyonight)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ssanchezhlg&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ssanchezhlg&theme=tokyonight" width="49%" alt="Productive Time" />
+</div>
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ssanchezhlg&theme=tokyonight)
-
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ssanchezhlg&theme=tokyonight)
+<div align="center">
 
 ![Trophies](https://github-trophies.vercel.app/?username=ssanchezhlg&theme=tokyonight&no-frame=true&row=1&column=6)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssanchezhlg&theme=tokyonight&hide_border=true)
-
 </div>
-
 
 <div align="center">
 
 ![Metrics](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-metrics.svg)
 
 </div>
-
-
-
-
 
 ### 💻 Actividad de Código Esta Semana
 
@@ -159,35 +170,17 @@ Dart       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 </div>
 
-
 ### 🐍 Serpiente de Contribuciones
 
 <div align="center">
-
-![snake gif](https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-contribution-grid-snake-dark.svg)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ssanchezhlg/ssanchezhlg/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
-
-
-<!-- 
-
-## 🚀 Proyectos Destacados
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ssanchezhlg&repo=NOMBRE-PROYECTO-1&theme=tokyonight&hide_border=true)](https://github.com/ssanchezhlg/NOMBRE-PROYECTO-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ssanchezhlg&repo=NOMBRE-PROYECTO-2&theme=tokyonight&hide_border=true)](https://github.com/ssanchezhlg/NOMBRE-PROYECTO-2)
-
-<!-- Reemplaza NOMBRE-PROYECTO-1 y NOMBRE-PROYECTO-2 con tus repositorios reales -->
-
-<!--  </div>   
-
----
-
--->
-
 
 ## 💡 Frase Motivacional del Día
 
@@ -210,7 +203,6 @@ Dart       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 </div>
 
-
 ---
 
 ## ⚡ Actividad Reciente en GitHub
@@ -224,18 +216,9 @@ Dart       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   
 ### 💭 "Si lo haces más de dos veces, automatízalo." – DevOps Philosophy
 
-### 📫 Conectemos
-
-
-<!-- **💼 Disponible para:** Proyectos DevOps | Consultoría de Redes | Desarrollo Flutter   -->
-
 **⚡ Dato curioso:** Creo que el mejor código es el que se auto-despliega sin errores 🚀
 
 ---
-
-![](https://komarev.com/ghpvc/?username=ssanchezhlg&color=6C63FF&style=flat-square&label=Visitas+al+Perfil)
-![](https://img.shields.io/github/followers/ssanchezhlg?label=Seguidores&style=flat-square&color=6C63FF)
-![](https://img.shields.io/github/stars/ssanchezhlg?label=Estrellas&style=flat-square&color=FFD700)
 
 ### ⭐ ¡Apoya mi trabajo!
 
@@ -246,5 +229,5 @@ Si te gusta lo que hago, siéntete libre de ⭐ dar estrella a mis repositorios 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
