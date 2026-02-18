@@ -166,11 +166,28 @@ HTML              3 mins                ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ---
 
-## 📈 Trabajos en Repositorios Destacados
+## 📈 Proyectos Destacados
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ssanchezhlg&theme=tokyo-night&hide_border=true&area=true&custom_title=Trabajos%20en%20Repositorios%20Destacados)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ssanchezhlg/squid-quota-manager">
+        <b>squid-quota-manager</b>
+      </a>
+      <br>
+      Gestión de cuotas para Squid Proxy
+    </td>
+    <td align="center">
+      <a href="https://github.com/ssanchezhlg/bot_telegram_oficial">
+        <b>bot_telegram_oficial</b>
+      </a>
+      <br>
+      Bot oficial de Telegram
+    </td>
+  </tr>
+</table>
 
 </div>
 
