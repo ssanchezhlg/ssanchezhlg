@@ -166,11 +166,11 @@ HTML              3 mins                ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ---
 
-## 📈 Actividad de Contribuciones
+## 📈 Trabajos en Repositorios Destacados
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ssanchezhlg&theme=tokyo-night&hide_border=true&area=true&custom_title=Gráfico%20de%20Actividad)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ssanchezhlg&theme=tokyo-night&hide_border=true&area=true&custom_title=Trabajos%20en%20Repositorios%20Destacados)
 
 </div>
 
