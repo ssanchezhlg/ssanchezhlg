@@ -201,18 +201,6 @@ HTML              3 mins                ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ---
 
-## ⚡ Actividad Reciente en GitHub
-
-<!--START_SECTION:activity-->
-1. 🚀 Published release [Android Release v0.0.1-android-dev-cea3e62](https://github.com/Softnet-Releases/rodolfo-pc/releases/tag/v0.0.1-android-dev-cea3e62) in [Softnet-Releases/rodolfo-pc](https://github.com/Softnet-Releases/rodolfo-pc)
-2. 🚀 Published release [Android Release v0.0.1-android-dev-e7dd010](https://github.com/Softnet-Releases/rodolfo-pc/releases/tag/v0.0.1-android-dev-e7dd010) in [Softnet-Releases/rodolfo-pc](https://github.com/Softnet-Releases/rodolfo-pc)
-3. 🚀 Published release [Android Release v0.0.1-android-dev-86073e1](https://github.com/platformgo3t/releases-swiftpay/releases/tag/v0.0.1-android-dev-86073e1) in [platformgo3t/releases-swiftpay](https://github.com/platformgo3t/releases-swiftpay)
-4. 🚀 Published release [Release v0.0.2](https://github.com/HoteiApp/releases-sunnix/releases/tag/v0.0.2) in [HoteiApp/releases-sunnix](https://github.com/HoteiApp/releases-sunnix)
-5. 🚀 Published release [Release v0.0.1](https://github.com/HoteiApp/releases-sunnix/releases/tag/v0.0.1) in [HoteiApp/releases-sunnix](https://github.com/HoteiApp/releases-sunnix)
-<!--END_SECTION:activity-->
-
----
-
 <div align="center">
   
 ### 💭 "Si lo haces más de dos veces, automatízalo." – DevOps Philosophy
