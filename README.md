@@ -166,31 +166,6 @@ HTML              3 mins                ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ---
 
-## 📈 Proyectos Destacados
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/ssanchezhlg/squid-quota-manager">
-        <b>squid-quota-manager</b>
-      </a>
-      <br>
-      Gestión de cuotas para Squid Proxy
-    </td>
-    <td align="center">
-      <a href="https://github.com/ssanchezhlg/bot_telegram_oficial">
-        <b>bot_telegram_oficial</b>
-      </a>
-      <br>
-      Bot oficial de Telegram
-    </td>
-  </tr>
-</table>
-
-</div>
-
 ### 🐍 Serpiente de Contribuciones
 
 <div align="center">
